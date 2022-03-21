@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **stephlamas/stephlamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🚀 About me
+
+My name is Estefanía Lamas, a former translator & interpreter and a new web developer.
+
+I am really enthusiastic about learning about new technologies. In March 2022, I finished the Web Development Bootcamp at Ironhack Madrid.
+I learned the MERN Stack => React | Javascript(ES6) | Node | Express | MongoDB | HTML | CSS.
+
+## 📫 How to reach me: 
+esteflamas@gmail.com
