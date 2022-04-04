@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 🚀 About me
 
-My name is Estefanía Lamas, a former translator & interpreter and a new web developer.
+My name is Estefanía Lamas, a web developer & translator.
 
 I am really enthusiastic about learning about new technologies. In March 2022, I finished the Web Development Bootcamp at Ironhack Madrid.
 I learned the MERN Stack => React | Javascript(ES6) | Node | Express | MongoDB | HTML | CSS.
