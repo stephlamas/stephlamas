@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![estefanía lamas](https://user-images.githubusercontent.com/95500908/161571308-2060a9c0-9e31-4982-98ac-f659a495efbb.png)
+   ![estefanía lamas (1)](https://user-images.githubusercontent.com/95500908/161572678-1dd78ca8-26d8-4e66-ac50-7a785b209de5.png)
+
+
 
 # 🚀 About me
 
