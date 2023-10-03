@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 # 🚀 About me
 
-My name is Estefanía Lamas, a web developer & translator.
+My name is Estefanía, and I'm a Frontend Developer & translator!
 
-I am really enthusiastic about learning about new technologies. In March 2022, I finished the Web Development Bootcamp at Ironhack Madrid.
+Since I finished the Web Development Bootcamp at Ironhack Madrid in 2022, and started a new career working as a Frontend Dev, my life has only gotten better.
 I learned the MERN Stack => React | Javascript(ES6) | Node | Express | MongoDB | HTML | CSS.
 
 ## 📫 How to reach me: 
